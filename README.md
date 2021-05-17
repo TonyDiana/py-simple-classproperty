@@ -6,7 +6,7 @@
 This module provides a simple way for defining class properties.
 
 
-### Install
+## Install
 
 You can install this Python module via **pip**:
 ```shell
@@ -16,7 +16,7 @@ pip install simple-classproperty
 Otherwise the module can be downloaded from PyPI: https://pypi.org/project/simple-classproperty/
 
 
-### Usage
+## Usage
 
 1. Import the module:
    ```python
@@ -44,7 +44,7 @@ Otherwise the module can be downloaded from PyPI: https://pypi.org/project/simpl
    ```
 
 
-### Tips
+## Tips
 
 The `classproperty` is also accessible from an instance:
 ```python
